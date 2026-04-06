@@ -22,8 +22,7 @@ Developed an interactive dashboard to analyze hospital emergency room operations
 - Department-wise performance insights
 
 ## 📷 Dashboard Preview
-![Dashboard](<img width="1363" height="555" alt="Screenshot 2026-03-19 092426" src="https://github.com/user-attachments/assets/6445afa1-ede6-4c7a-8dfe-5611a9a259cb" />
-)
+![Dashboard](Screenshot 2026-03-19 092426.png)
 
 ## 💡 Insights
 - Identified peak patient hours and delays
